@@ -1,0 +1,4 @@
+*.lock
+diagnostic.data/
+journal/
+mongod.log
